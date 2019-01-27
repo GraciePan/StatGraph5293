@@ -28,6 +28,8 @@ Unwin, Ch. 3, \#5
 
 Unwin, Ch. 3, \#6
 
+(`h39b.w1` is now called `log_virus`)
+
 (10 points)
 
 Note: the question reads: “What plots would you draw…” however you
