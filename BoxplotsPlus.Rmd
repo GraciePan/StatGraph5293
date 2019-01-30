@@ -78,7 +78,7 @@ text(fivenum(C)[c(2,4)], .75, round(fivenum(C),1)[c(2,4)], col = "red")
 
 <img src="boyfriend.png" style="width: 800px;"/>
 
-https://www.explainxkcd.com/wiki/index.php/539:_Boyfriend
+[https://www.explainxkcd.com/wiki/index.php/539:_Boyfriend](https://www.explainxkcd.com/wiki/index.php/539:_Boyfriend)
 
 # What does it take to be an outlier?
 
